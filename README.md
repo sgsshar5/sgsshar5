@@ -1,4 +1,4 @@
-### Hi there 👋 I'm sgsshar5 or Shivam Sharma
+### Hi there 👋 I'm Shivam Sharma
 👀 I’m interested in learning skills which can help me grow professionaly and personally
 🌱 I’m currently learning GCP and Azure Data Factory and Guitar...
 📫 You can connect with me on Linkedin or just drop an email @ shivamsharma0399@gmail.com
